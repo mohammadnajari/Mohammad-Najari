@@ -52,7 +52,7 @@ I enjoy solving problems, building practical solutions, and constantly improving
 ## 📬 Contact | راه ارتباطی
 
 - 📧 Email: `m.najari.dev1993@gmail.com`  
-- 💬 Telegram: 'https://t.me/Mr_Najari'   
+- 💬 Telegram: `https://t.me/Mr_Najari`  
 - 🌐 LinkedIn: [coming soon]
 
 ---
