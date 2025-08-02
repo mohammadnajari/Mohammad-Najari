@@ -27,7 +27,7 @@ I enjoy solving problems, building practical solutions, and constantly improving
 
 ## 📂 Projects | پروژه‌ها
 
-🔹 [Mahan Accounting Software](https://github.com/USERNAME/REPO-NAME)  
+🔹 [Mahan Accounting Software](https://github.com/mohammadnajari/Mahan-Accounting-Software)  
 📌 A desktop project to manage products and customers using C# and SQL Server.  
 📌 پروژه‌ای برای مدیریت کالاها و مشتریان با استفاده از C# و SQL Server.
 
@@ -52,7 +52,7 @@ I enjoy solving problems, building practical solutions, and constantly improving
 ## 📬 Contact | راه ارتباطی
 
 - 📧 Email: `m.najari.dev1993@gmail.com`  
-- 💬 Telegram: [your-telegram-link] *(optional)*  
+- 💬 Telegram: 'https://t.me/Mr_Najari'   
 - 🌐 LinkedIn: [coming soon]
 
 ---
