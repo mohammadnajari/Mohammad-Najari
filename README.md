@@ -1,21 +1,23 @@
-<h1 align="center">سلام! من محمد نجاری‌ام 👋</h1>
-<h3 align="center">Software Developer | C# Enthusiast | Lifelong Learner 🚀</h3>
+<h1 align="center">Hi! I'm Mohammad Najari 👋</h1>
+<p align="center">سلام! من محمد نجاری‌ام — توسعه‌دهنده نرم‌افزار</p>
+
+<h3 align="center">C# Developer | ASP.NET Learner | Problem Solver 🚀</h3>
 
 ---
 
 ## 👨‍💻 About Me | درباره من
 
-Hi! I'm **Mohammad Najari**, a passionate software developer with a background in computer science.  
-I specialize in **C#** and desktop application development, have hands-on experience with **ASP.NET**, and I'm currently learning **WordPress**.  
-I enjoy solving problems, building real-world projects, and constantly learning to grow.
+I’m a software developer with an academic background in computer science.  
+I specialize in **C#** and desktop applications using Windows Forms, have hands-on experience with **ASP.NET**, and I’m currently learning **WordPress**.  
+I enjoy solving problems, building practical solutions, and constantly improving my skills.
 
-سلام! من **محمد نجاری** هستم، توسعه‌دهنده نرم‌افزار با تحصیلات در رشته نرم‌افزار.  
-تسلط خوبی روی **C#** و پروژه‌های دسکتاپ دارم، در زمینه **ASP.NET** تجربه کار دارم و در حال یادگیری **وردپرس** هستم.  
-به حل مسئله، ساخت پروژه‌های کاربردی و یادگیری مستمر علاقه دارم.
+من یک توسعه‌دهنده نرم‌افزار با سابقه تحصیلی در رشته مهندسی نرم‌افزار هستم.  
+در توسعه اپلیکیشن‌های دسکتاپ با **C#** و Windows Forms مهارت دارم، در **ASP.NET** تجربه دارم و در حال یادگیری **وردپرس** هستم.  
+به حل مسئله، ساخت نرم‌افزارهای کاربردی و یادگیری مداوم علاقه‌مندم.
 
 ---
 
-## 💡 Skills | مهارت‌ها
+## 🛠️ Skills | مهارت‌ها
 
 - Languages: `C#`, `JavaScript`, `HTML/CSS`  
 - Databases: `SQL Server`, `MySQL`  
@@ -23,38 +25,38 @@ I enjoy solving problems, building real-world projects, and constantly learning 
 
 ---
 
-## 🚀 Projects | پروژه‌ها
+## 📂 Projects | پروژه‌ها
 
 🔹 [Mahan Accounting Software](https://github.com/USERNAME/REPO-NAME)  
-📌 A simple desktop project to manage products and customers using C# and SQL Server.  
-📌 پروژه‌ای ساده برای مدیریت محصولات و مشتریان با C# و SQL Server.
+📌 A desktop project to manage products and customers using C# and SQL Server.  
+📌 پروژه‌ای برای مدیریت کالاها و مشتریان با استفاده از C# و SQL Server.
 
-🔹 Online Store Website (Coming Soon...)  
-📌 ASP.NET web project with user login, admin panel, and shopping cart.  
-📌 پروژه وب‌سایت فروشگاهی با ورود کاربران، پنل مدیریت و سبد خرید (در حال آپلود)
+🔹 Online Store Website (Coming Soon)  
+📌 ASP.NET project with user login, admin panel, and shopping cart.  
+📌 پروژه وب‌سایت فروشگاهی با ورود کاربران، پنل مدیریت و سبد خرید.
 
 ---
 
 ## 🎯 Goals | اهداف من
 
 - Build a strong freelance portfolio  
-- Improve web development skills  
-- Help others by sharing what I learn  
+- Expand my knowledge in web technologies  
+- Share what I learn to help others
 
-- ساخت نمونه‌کارهای قوی برای ورود به دنیای فریلنسری  
-- ارتقاء مهارت‌های توسعه وب  
-- کمک به دیگران با اشتراک‌گذاری تجربیات و آموزش‌ها
+- ساخت نمونه‌کارهای قوی برای ورود به فریلنسری  
+- یادگیری تکنولوژی‌های روز وب  
+- انتقال تجربه‌ها و آموزش به دیگران
 
 ---
 
-## 📬 Contact Me | راه ارتباطی با من
+## 📬 Contact | راه ارتباطی
 
-- 📧 Gmail: `m.najari.dev1993@gmail.com`  
-- 💼 LinkedIn: (coming soon)  
-- 💬 Telegram: [اینجا لینک بده اگه خواستی]
+- 📧 Email: `m.najari.dev1993@gmail.com`  
+- 💬 Telegram: [your-telegram-link] *(optional)*  
+- 🌐 LinkedIn: [coming soon]
 
 ---
 
 🧡 **Thanks for visiting my profile!**  
-🙏 **خوشحال می‌شم پروژه‌هام رو ببینی و نظرت رو بهم بگی.**
+🙏 **ممنون که به پروفایلم سر زدی! خوشحال می‌شم نظرت رو درباره پروژه‌هام بدونم.**
 
